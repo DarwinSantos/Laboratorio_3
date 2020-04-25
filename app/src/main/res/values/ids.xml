@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="rdbFemale" type="id" />
+    <item name="spnRaces" type="id" />
+    <item name="edtName" type="id" />
+    <item name="txtAge" type="id" />
+    <item name="skbAge" type="id" />
+    <item name="rdgSex" type="id" />
+    <item name="rdbMale" type="id" />
+    <item name="btnSave" type="id" />
+    <item name="edtNumber" type="id" />
+    <item name="actPet" type="id" />
+    <item name="chkShower" type="id" />
+    <item name="chkNails" type="id" />
+    <item name="chkVaccine" type="id" />
+</resources>
